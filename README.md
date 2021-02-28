@@ -1,4 +1,4 @@
 # Progetto-OO 
-Progetto di OO, ver. 0.02
+Progetto di OO, ver. 0.03
 
-Siamo allo 0% del progetto, aiuto!
+Ho aggiunto un prototipo non testato di deposito e prodotto.
